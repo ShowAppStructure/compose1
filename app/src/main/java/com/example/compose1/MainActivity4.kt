@@ -53,6 +53,8 @@ fun ColorBox(modifier: Modifier) {
             )
         })
 }
+
+
 @Composable
 fun ColorBox2(modifier: Modifier,colorUpdate :(Color)->Unit) {
     Box(modifier = modifier
