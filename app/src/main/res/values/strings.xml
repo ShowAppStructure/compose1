@@ -7,4 +7,6 @@
         MainActivity5_textfield_snackbar
     </string>
     <string name="title_activity_main_activity6_list">MainActivity6_list</string>
+    <string name="title_activity_main_activity7_constraint_layout">MainActivity7_constraint_layout
+    </string>
 </resources>
